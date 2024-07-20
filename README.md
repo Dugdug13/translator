@@ -1,6 +1,7 @@
 # Flask Language Translator
 
 Flask Language Translator is a simple web application built with Flask that utilizes the IBM Watson Language Translator service to translate text from one language to another.
+[Link to the Live Page](deeksha188.pythonanywhere.com)
 
 ## Features
 
